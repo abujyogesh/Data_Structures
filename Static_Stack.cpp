@@ -75,7 +75,7 @@ void display()
 	{
 		for(i=0;i<=s.top;i++)
 		{
-			cout<<s.a[i]<<" ";
+			cout<<s.a[i];
 		}
    }
 }
